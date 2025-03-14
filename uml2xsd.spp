@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;rdf;smil;svg;wml">
+		<File FilePath="Result\20250225 generated s5000f.xsd" HomeFolder="Yes"/>
+		<File FilePath="UML Model\S5000F_Data_model.xml" HomeFolder="Yes"/>
+		<File FilePath="UML Model\S5000F_Data_model_75BR.xml" HomeFolder="Yes"/>
+		<File FilePath="UML Model\SX002D customprofile.xml" HomeFolder="Yes"/>
+		<File FilePath="UML Model\SX002D_Data_model.xml" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery;xqu"/>
+	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
+	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd">
+		<File FilePath="S5000F_4-0\s5000f_4-0_isfDataset.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_project_specific_exchange_definitions.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_project_specific_exchanges.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_valid_values.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_valid_values_external_libraries.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_valid_values_libraries.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_valid_values_project_extensions.xsd" HomeFolder="Yes"/>
+		<File FilePath="S5000F_4-0\s5000f_4-0_valid_values_units.xsd" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="Entities" ExtStr="ent"/>
+</Project>
